@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lambda</string>
+    <string name="Siguiente">siguiente</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="olvidaste">Olvidaste tu contraseña?</string>
+    <string name="Iniciar_sesion">Iniciar sesion</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="recuperar_contra">Restablecer contraseña</string>
+    <string name="enviar">Enviar</string>
+</resources>
